@@ -1,0 +1,10 @@
+To setup empty folder with vite
+npm create vite@latest ./ -- --template react
+
+Install and initialize tailwindcss
+npm install -D tailwindcss
+npx tailwindcss init
+
+Install dependencies
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @ema
+iljs/browser framer-motion react-router-dom
